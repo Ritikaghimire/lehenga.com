@@ -1,0 +1,36 @@
+strong {
+    color: darkred;
+}
+
+html {
+    background-color: lightpink;
+}
+
+.yoo {
+    float: left;
+    width: 200px;
+    border-radius: 40%;
+}
+
+h1 {
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2 {
+    color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: none;
+} 
+
+h3 {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: none;
+}
+p {
+    background-color: lightblue;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
